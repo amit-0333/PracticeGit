@@ -1,5 +1,5 @@
 # PracticeGit
 
-Hello , this is for practice
+Hello , this is for practice.
 <br>
 Author - Amit Kumar 
